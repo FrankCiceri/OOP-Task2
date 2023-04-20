@@ -1,0 +1,15 @@
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\obj\Debug\net6.0\OOP-task2.csproj.AssemblyReference.cache
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\obj\Debug\net6.0\OOP-task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\obj\Debug\net6.0\OOP-task2.AssemblyInfoInputs.cache
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\obj\Debug\net6.0\OOP-task2.AssemblyInfo.cs
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\obj\Debug\net6.0\OOP-task2.csproj.CoreCompileInputs.cache
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\bin\Debug\net6.0\OOP-task2.deps.json
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\bin\Debug\net6.0\OOP-task2.dll
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\bin\Debug\net6.0\OOP-task2.pdb
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\obj\Debug\net6.0\OOP-task2.dll
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\obj\Debug\net6.0\refint\OOP-task2.dll
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\obj\Debug\net6.0\OOP-task2.pdb
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\obj\Debug\net6.0\ref\OOP-task2.dll
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\bin\Debug\net6.0\OOP-task2.exe
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\bin\Debug\net6.0\OOP-task2.runtimeconfig.json
+D:\Bootcamp AQA\task2-.net\OOP-task2\OOP-task2\obj\Debug\net6.0\OOP-task2.genruntimeconfig.cache
