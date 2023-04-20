@@ -7,3 +7,22 @@ Create and describe a hierarchy for the entities Animal, Herbal, Herbivore, Carn
  - animals can be omnivores
  - herbivores must have an Eat() method that takes a plant as a parameter
  - predators must have an Eat() method that takes an animal as a parameter
+ 
+ 
+ #Description of Hierarchy
+ 
+ Alive|
+      |
+      -Animal|
+      |      |-Carnivore
+      |                 |-Wolf
+      |      |-Omnivore
+      |                 |-Bear
+      |      |-Herbivore
+      |                 |-Rabbit
+      -Herbal|
+      |       |-Rose
+      |             
+      |       |-Grass
+    
+       
