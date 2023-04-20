@@ -11,6 +11,19 @@ Create and describe a hierarchy for the entities Animal, Herbal, Herbivore, Carn
  
  #Description of Hierarchy
  
-    
-       ![image](https://user-images.githubusercontent.com/127796437/233493187-0bfc80f7-768e-4d2d-ba5f-c5ca277e6754.png)
+   -  Alive
+      
+           - Animal
+
+                     - Carnivore:
+                                 - Wolf
+                     - Omnivore:
+                                 - Bear
+                     - Herbivore:
+                                 - Rabbit
+           - Herbal
+
+                     - Rose
+
+                     - Grass
 
